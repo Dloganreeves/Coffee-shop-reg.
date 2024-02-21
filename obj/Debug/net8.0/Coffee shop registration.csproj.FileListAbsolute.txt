@@ -1,0 +1,30 @@
+C:\Users\logan\source\repos\Coffee shop registration\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\logan\source\repos\Coffee shop registration\bin\Debug\net8.0\appsettings.json
+C:\Users\logan\source\repos\Coffee shop registration\bin\Debug\net8.0\Coffee shop registration.staticwebassets.runtime.json
+C:\Users\logan\source\repos\Coffee shop registration\bin\Debug\net8.0\Coffee shop registration.exe
+C:\Users\logan\source\repos\Coffee shop registration\bin\Debug\net8.0\Coffee shop registration.deps.json
+C:\Users\logan\source\repos\Coffee shop registration\bin\Debug\net8.0\Coffee shop registration.runtimeconfig.json
+C:\Users\logan\source\repos\Coffee shop registration\bin\Debug\net8.0\Coffee shop registration.dll
+C:\Users\logan\source\repos\Coffee shop registration\bin\Debug\net8.0\Coffee shop registration.pdb
+C:\Users\logan\source\repos\Coffee shop registration\obj\Debug\net8.0\Coffee shop registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\source\repos\Coffee shop registration\obj\Debug\net8.0\Coffee shop registration.AssemblyInfoInputs.cache
+C:\Users\logan\source\repos\Coffee shop registration\obj\Debug\net8.0\Coffee shop registration.AssemblyInfo.cs
+C:\Users\logan\source\repos\Coffee shop registration\obj\Debug\net8.0\Coffee shop registration.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\Coffee shop registration\obj\Debug\net8.0\Coffee shop registration.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\logan\source\repos\Coffee shop registration\obj\Debug\net8.0\Coffee shop registration.RazorAssemblyInfo.cache
+C:\Users\logan\source\repos\Coffee shop registration\obj\Debug\net8.0\Coffee shop registration.RazorAssemblyInfo.cs
+C:\Users\logan\source\repos\Coffee shop registration\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\logan\source\repos\Coffee shop registration\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\logan\source\repos\Coffee shop registration\obj\Debug\net8.0\staticwebassets\msbuild.Coffee shop registration.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\logan\source\repos\Coffee shop registration\obj\Debug\net8.0\staticwebassets\msbuild.build.Coffee shop registration.props
+C:\Users\logan\source\repos\Coffee shop registration\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Coffee shop registration.props
+C:\Users\logan\source\repos\Coffee shop registration\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Coffee shop registration.props
+C:\Users\logan\source\repos\Coffee shop registration\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\logan\source\repos\Coffee shop registration\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\logan\source\repos\Coffee shop registration\obj\Debug\net8.0\scopedcss\bundle\Coffee shop registration.styles.css
+C:\Users\logan\source\repos\Coffee shop registration\obj\Debug\net8.0\scopedcss\projectbundle\Coffee shop registration.bundle.scp.css
+C:\Users\logan\source\repos\Coffee shop registration\obj\Debug\net8.0\Coffee shop registration.dll
+C:\Users\logan\source\repos\Coffee shop registration\obj\Debug\net8.0\refint\Coffee shop registration.dll
+C:\Users\logan\source\repos\Coffee shop registration\obj\Debug\net8.0\Coffee shop registration.pdb
+C:\Users\logan\source\repos\Coffee shop registration\obj\Debug\net8.0\Coffee shop registration.genruntimeconfig.cache
+C:\Users\logan\source\repos\Coffee shop registration\obj\Debug\net8.0\ref\Coffee shop registration.dll
